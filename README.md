@@ -2,55 +2,58 @@
 
 ## About Me
 
-I'm a passionate software developer with a strong foundation in building scalable applications and solving complex problems through code. I love creating efficient solutions and continuously learning new technologies to stay at the forefront of software development.
+I'm a passionate software developer specializing in building robust web applications and solving complex problems through code. With a strong portfolio of Laravel-based solutions, I focus on creating efficient, scalable applications that make a real impact.
 
 ## 💻 Software Development Experience
 
 ### Skills & Technologies
 
-**Languages:**
-- JavaScript/TypeScript
-- Python
-- Java
-- HTML/CSS
-- SQL
+**Primary Expertise:**
+- **PHP** - Core language for backend development
+- **Laravel** - Main framework for building enterprise-level applications
+- **MySQL** - Database design and optimization
+- **JavaScript** - Frontend interactivity and AJAX
+- **HTML/CSS** - Responsive web design
 
-**Frameworks & Libraries:**
-- React.js
-- Node.js
-- Express.js
-- Django
-- Spring Boot
+**Additional Technologies:**
+- Vue.js/Alpine.js
+- Livewire
+- Tailwind CSS
+- RESTful API Development
+- Git & Version Control
 
-**Tools & Platforms:**
+**Development Tools:**
+- Composer (PHP dependency management)
 - Git & GitHub
-- Docker
-- AWS/Cloud Services
-- REST APIs
-- Database Management (PostgreSQL, MongoDB, MySQL)
+- Laravel Artisan CLI
+- PHPUnit for testing
+- MySQL Workbench
+- VS Code / PHPStorm
 
 ### What I Do
 
-- 🔭 **Full-Stack Development**: Building end-to-end applications from database design to user interfaces
-- 🌱 **Continuous Learning**: Currently exploring cloud architecture and microservices
-- 💡 **Problem Solving**: Passionate about writing clean, maintainable code and optimizing performance
-- 🤝 **Collaboration**: Experienced in working with teams using Agile methodologies
+- 🔭 **Laravel Development**: Building enterprise-level web applications with Laravel framework
+- 🌱 **Backend Expertise**: Specializing in PHP backend development, API design, and database architecture
+- 💡 **Problem Solving**: Creating efficient solutions with clean, maintainable Laravel code
+- 🚀 **Portfolio**: Strong collection of Laravel-based projects demonstrating real-world application development
+- 🤝 **Best Practices**: Following Laravel conventions, SOLID principles, and modern PHP standards
 
 ## 🚀 Projects & Interests
 
-I enjoy working on projects that make a real impact, whether it's:
-- Building web applications that solve everyday problems
-- Contributing to open-source projects
-- Exploring new technologies and frameworks
-- Optimizing code for better performance and scalability
+I build solutions that make a real impact, focusing on:
+- Developing robust Laravel applications for business automation
+- Creating custom web solutions tailored to specific needs
+- Building RESTful APIs and backend systems
+- Database design and optimization for performance
+- Implementing authentication, authorization, and security best practices
 
 ## 📫 Get in Touch
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-- 💼 Open to new opportunities and collaborations
-- 📧 Feel free to reach out for software development discussions
-- 🌐 Check out my repositories to see what I'm working on
+- 💼 Open to Laravel development opportunities and collaborations
+- 📧 Feel free to reach out for PHP/Laravel development discussions
+- 🌐 Check out my repositories to see my Laravel portfolio and projects
 
 ---
 
